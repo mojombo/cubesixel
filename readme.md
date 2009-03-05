@@ -4,7 +4,7 @@ This is a very simple pixel font designed for use at 8pt size with no aliasing. 
 
 Here's the font's character set so far:
 
-![CubeSixel glyphs at 8pt size](http://github.com/mojombo/cubesixel/blob/master/cubesixel-example-8pt.png)
+![CubeSixel glyphs at 8pt size](http://github.com/mojombo/cubesixel/raw/master/cubesixel-example-8pt.png)
 
 ## Download
 
