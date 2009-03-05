@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="500"/>
+  <unicode hex="003e"/>
+  <outline>
+    <contour>
+      <point x="125" y="500" type="line" smooth="no"/>
+      <point x="250" y="500" type="line" smooth="no"/>
+      <point x="250" y="375" type="line" smooth="no"/>
+      <point x="375" y="375" type="line" smooth="no"/>
+      <point x="375" y="250" type="line" smooth="no"/>
+      <point x="250" y="250" type="line" smooth="no"/>
+      <point x="250" y="125" type="line" smooth="no"/>
+      <point x="125" y="125" type="line" smooth="no"/>
+      <point x="125" y="0" type="line" smooth="no"/>
+      <point x="0" y="0" type="line" smooth="no"/>
+      <point x="0" y="125" type="line" smooth="no"/>
+      <point x="125" y="125" type="line" smooth="no"/>
+      <point x="125" y="250" type="line" smooth="no"/>
+      <point x="250" y="250" type="line" smooth="no"/>
+      <point x="250" y="375" type="line" smooth="no"/>
+      <point x="125" y="375" type="line" smooth="no"/>
+      <point x="125" y="500" type="line" smooth="no"/>
+      <point x="0" y="500" type="line" smooth="no"/>
+      <point x="0" y="625" type="line" smooth="no"/>
+      <point x="125" y="625" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>CubeSixel</string>
+	<key>styleName</key>
+	<string>Book</string>
+	<key>copyright</key>
+	<string>Copyright 2003 Cube6 Media (www.cube6media.com)</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<date>1999/07/30 00:00:00</date>
+	<key>openTypeHheaAscender</key>
+	<integer>1125</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-375</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Cube6 Media - Thomas Werner 2003</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.mojombo.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Cube6 Media</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.cube6media.com</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.03; September 30, 2002</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Cube6 Media: CubeSixel Regular:2003</string>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>HL  </string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1125</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>25</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscender</key>
+	<integer>1250</integer>
+	<key>openTypeOS2WinDescender</key>
+	<integer>-375</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>700</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>143</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>700</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>453</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>259</integer>
+	<key>postscriptFontName</key>
+	<string>CubeSixel</string>
+	<key>postscriptFullName</key>
+	<string>CubeSixel</string>
+	<key>postscriptWeightName</key>
+	<string>Book</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>125</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-63</integer>
+    </dict>
+</plist>
