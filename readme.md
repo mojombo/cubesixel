@@ -8,7 +8,7 @@ Here's the font's character set so far:
 
 ## Download
 
-You can download the OpenType Font at the [CubeSixel Downloads Page](http://github.com/mojombo/cubesixel/blob/master).
+You can download the OpenType Font at the [CubeSixel Downloads Page](http://github.com/mojombo/cubesixel/downloads).
 
 ## Contributing
 
